@@ -32,7 +32,8 @@ print("Square root of the number:",newsqrt(number,number_iters))
 ```
 
 ## Output:
-![sr](sr.png)
+![square root two](https://user-images.githubusercontent.com/119560501/214869232-bf07212e-e3fd-4eb7-bcb6-a3c12c5aa510.png)
+
 
 
 ## Result:
